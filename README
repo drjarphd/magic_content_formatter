@@ -1,0 +1,37 @@
+Java programming practice.
+Completed program is intended to read in content and format it appropriately. 
+
+Goals:
+1. Formatted output should be:
+[First Name]
+[Middle Name]
+[LAST NAME]
+[xxx-xx-ssn]
+
+[DoB: x/xx/xxxx]
+[Gender]
+[Credentials sent? Y/N]
+
+[111 Street Name]
+[Apt]
+[City]
+[State/Province]
+[Postal Code]
+[COUNTRY]
+
+[Main Email]
+[Secondary Email]
+[Main Phone number: xxx-xx-xxx]
+[Secondary Phone number: xxx-xx-xxx]
+
+[Purpose]
+
+[Services]
+[Total copies: xx]
+[Service Type]
+[Total Bill]
+
+[Files to download? Y/N]
+
+[Return info]
+[Delivery Instructions]
